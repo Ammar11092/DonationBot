@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node index.js"
+  },
   "name": "discord-coc-donation-logger",
   "version": "1.0.0",
   "description": "A Discord bot that logs Clash of Clans donations as they occur.",
